@@ -9,7 +9,7 @@ I am starting this repository in **January 2025** to track my daily progress and
 The repository is organized into difficulty-based folders, further sorted by topics:
 
 ```scss
-SQL-Journey-Leetcode/
+SQL-Journey/
 ├── Beginner/          
 ├── Intermediate/      
 ├── Advanced/          
